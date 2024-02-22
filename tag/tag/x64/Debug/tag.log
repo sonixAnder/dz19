@@ -1,0 +1,3 @@
+﻿  tag.cpp
+C:\Users\SSoni\OneDrive\Рабочий стол\tag\tag\tag.cpp(33,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  tag.vcxproj -> C:\Users\SSoni\OneDrive\Рабочий стол\tag\x64\Debug\tag.exe
